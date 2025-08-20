@@ -1,1 +1,8 @@
-{"modUrl":"https://github.com/artkolobok/More-Luxuries","author":"artkolobok","lastUpdated":"2024-05-17T11:50:10Z","modSize":1479,"topics":["unciv-mod","unciv-mod-expansions"]}
+{
+    "isBaseRuleset": false,
+    "uniques": [
+        "Mod requires [Civ V - Gods & Kings]",
+        "Mod requires [Civ V Brave New World]",
+        "Cannot be used as permanent audiovisual mod"
+    ]
+}

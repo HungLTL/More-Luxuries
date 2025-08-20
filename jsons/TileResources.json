@@ -1,11 +1,17 @@
 [
-	// Luxury res
 	{
 		"name": "Amber",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": [ "Tundra", "Grassland", "Plains", "Desert", "Hill" ],
 		"gold": 2,
 		"improvement": "Mine",
+		"uniques": [
+			"Generated with weight [40] <in [Tundra] Regions>",
+			"Generated with weight [10] <in [Desert] Regions>",
+			"Generated with weight [30] <in [Hill] Regions>",
+			"Generated with weight [30] <in [Hybrid] Regions>",
+			"Generated near City States with weight [10]"
+		],
 		"improvementStats": { "gold": 1 }
 	},
 	{
@@ -14,6 +20,12 @@
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
 		"improvement": "Plantation",
+		"uniques": [
+			"Generated with weight [40] <in [Plains] Regions>",
+			"Generated with weight [10] <in [Grassland] Regions>",
+			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated near City States with weight [5]"
+		],
 		"improvementStats": { "gold": 1 }
 	},
 	{
@@ -22,6 +34,15 @@
 		"terrainsCanBeFoundOn": [ "Coast" ],
 		"gold": 2,
 		"improvement": "Fishing Boats",
+		"uniques": ["Generated with weight [10] <in [Tundra] Regions>",
+					"Generated with weight [10] <in [Jungle] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [10] <in [Desert] Regions>",
+					"Generated with weight [10] <in [Hill] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [10] <in [Grassland] Regions>",
+					"Generated with weight [20] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]"],
 		"improvementStats": { "gold": 1 }
 	},
 	{
@@ -30,6 +51,13 @@
 		"terrainsCanBeFoundOn": [ "Tundra", "Grassland", "Plains", "Desert", "Hill" ],
 		"gold": 2,
 		"improvement": "Mine",
+		"uniques": [
+			"Generated with weight [10] <in [Tundra] Regions>",
+			"Generated with weight [10] <in [Desert] Regions>",
+			"Generated with weight [30] <in [Hill] Regions>",
+			"Generated with weight [30] <in [Hybrid] Regions>",
+			"Generated near City States with weight [10]"
+		],
 		"improvementStats": { "gold": 1 }
 	},
 	{
@@ -38,6 +66,13 @@
 		"terrainsCanBeFoundOn": [ "Tundra", "Grassland", "Plains", "Desert", "Hill" ],
 		"gold": 2,
 		"improvement": "Mine",
+		"uniques": [
+			"Generated with weight [10] <in [Tundra] Regions>",
+			"Generated with weight [40] <in [Desert] Regions>",
+			"Generated with weight [30] <in [Hill] Regions>",
+			"Generated with weight [30] <in [Hybrid] Regions>",
+			"Generated near City States with weight [10]"
+		],
 		"improvementStats": { "gold": 1 }
 	},
 	{
@@ -47,6 +82,12 @@
 		"gold": 1,
 		"food": 1,
 		"improvement": "Plantation",
+		"uniques": [
+			"Generated with weight [40] <in [Plains] Regions>",
+			"Generated with weight [10] <in [Grassland] Regions>",
+			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated near City States with weight [5]"
+		],
 		"improvementStats": {
 			"gold": 1,
 			"food": 1
@@ -58,6 +99,12 @@
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
 		"improvement": "Plantation",
+		"uniques": [
+			"Generated with weight [10] <in [Plains] Regions>",
+			"Generated with weight [40] <in [Grassland] Regions>",
+			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated near City States with weight [5]"
+		],
 		"improvementStats": { "gold": 1 }
 	},
 	{
@@ -66,6 +113,12 @@
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
 		"improvement": "Plantation",
+		"uniques": [
+			"Generated with weight [10] <in [Plains] Regions>",
+			"Generated with weight [40] <in [Grassland] Regions>",
+			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated near City States with weight [5]"
+		],
 		"improvementStats": { "gold": 1 }
 	},
 	{
@@ -74,6 +127,12 @@
 		"terrainsCanBeFoundOn": [ "Grassland", "Plains" ],
 		"gold": 2,
 		"improvement": "Plantation",
+		"uniques": [
+			"Generated with weight [10] <in [Plains] Regions>",
+			"Generated with weight [40] <in [Grassland] Regions>",
+			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated near City States with weight [5]"
+		],
 		"improvementStats": { "gold": 1 }
 	},
 	// Unique res
@@ -82,5 +141,5 @@
 		"resourceType": "Luxury",
 		"gold": 2,
 		"uniques": ["Can only be created by Mercantile City-States"]
-	},
+	}
 ]
