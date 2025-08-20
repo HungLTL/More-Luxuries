@@ -6,10 +6,10 @@
 		"gold": 2,
 		"improvement": "Mine",
 		"uniques": [
-			"Generated with weight [40] <in [Tundra] Regions>",
+			"Generated with weight [25] <in [Tundra] Regions>",
 			"Generated with weight [10] <in [Desert] Regions>",
 			"Generated with weight [30] <in [Hill] Regions>",
-			"Generated with weight [30] <in [Hybrid] Regions>",
+			"Generated with weight [5] <in [Hybrid] Regions>",
 			"Generated near City States with weight [10]"
 		],
 		"improvementStats": { "gold": 1 }
@@ -21,9 +21,9 @@
 		"gold": 2,
 		"improvement": "Plantation",
 		"uniques": [
-			"Generated with weight [40] <in [Plains] Regions>",
+			"Generated with weight [30] <in [Plains] Regions>",
 			"Generated with weight [10] <in [Grassland] Regions>",
-			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated with weight [10] <in [Hybrid] Regions>",
 			"Generated near City States with weight [5]"
 		],
 		"improvementStats": { "gold": 1 }
@@ -52,10 +52,10 @@
 		"gold": 2,
 		"improvement": "Mine",
 		"uniques": [
-			"Generated with weight [10] <in [Tundra] Regions>",
+			"Generated with weight [5] <in [Tundra] Regions>",
 			"Generated with weight [10] <in [Desert] Regions>",
-			"Generated with weight [30] <in [Hill] Regions>",
-			"Generated with weight [30] <in [Hybrid] Regions>",
+			"Generated with weight [25] <in [Hill] Regions>",
+			"Generated with weight [25] <in [Hybrid] Regions>",
 			"Generated near City States with weight [10]"
 		],
 		"improvementStats": { "gold": 1 }
@@ -68,9 +68,9 @@
 		"improvement": "Mine",
 		"uniques": [
 			"Generated with weight [10] <in [Tundra] Regions>",
-			"Generated with weight [40] <in [Desert] Regions>",
-			"Generated with weight [30] <in [Hill] Regions>",
-			"Generated with weight [30] <in [Hybrid] Regions>",
+			"Generated with weight [30] <in [Desert] Regions>",
+			"Generated with weight [25] <in [Hill] Regions>",
+			"Generated with weight [10] <in [Hybrid] Regions>",
 			"Generated near City States with weight [10]"
 		],
 		"improvementStats": { "gold": 1 }
@@ -83,9 +83,9 @@
 		"food": 1,
 		"improvement": "Plantation",
 		"uniques": [
-			"Generated with weight [40] <in [Plains] Regions>",
+			"Generated with weight [30] <in [Plains] Regions>",
 			"Generated with weight [10] <in [Grassland] Regions>",
-			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated with weight [10] <in [Hybrid] Regions>",
 			"Generated near City States with weight [5]"
 		],
 		"improvementStats": {
@@ -101,8 +101,8 @@
 		"improvement": "Plantation",
 		"uniques": [
 			"Generated with weight [10] <in [Plains] Regions>",
-			"Generated with weight [40] <in [Grassland] Regions>",
-			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated with weight [30] <in [Grassland] Regions>",
+			"Generated with weight [10] <in [Hybrid] Regions>",
 			"Generated near City States with weight [5]"
 		],
 		"improvementStats": { "gold": 1 }
@@ -115,8 +115,8 @@
 		"improvement": "Plantation",
 		"uniques": [
 			"Generated with weight [10] <in [Plains] Regions>",
-			"Generated with weight [40] <in [Grassland] Regions>",
-			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated with weight [30] <in [Grassland] Regions>",
+			"Generated with weight [10] <in [Hybrid] Regions>",
 			"Generated near City States with weight [5]"
 		],
 		"improvementStats": { "gold": 1 }
@@ -129,8 +129,8 @@
 		"improvement": "Plantation",
 		"uniques": [
 			"Generated with weight [10] <in [Plains] Regions>",
-			"Generated with weight [40] <in [Grassland] Regions>",
-			"Generated with weight [5] <in [Hybrid] Regions>",
+			"Generated with weight [30] <in [Grassland] Regions>",
+			"Generated with weight [10] <in [Hybrid] Regions>",
 			"Generated near City States with weight [5]"
 		],
 		"improvementStats": { "gold": 1 }
